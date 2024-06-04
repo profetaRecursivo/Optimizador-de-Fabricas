@@ -1,0 +1,20 @@
+Instrucciones de Uso
+Formas de Inicialización:
+1. Interfaz Gráfica:
+Ubicación del archivo JAR: out/artifacts/Proyecto_Optimizacion/ProyectoOptimizacion.jar
+Ejecutar el archivo JAR para abrir la interfaz gráfica.
+Seguir las instrucciones para ingresar los módulos y conexiones.
+Iniciar la optimización haciendo clic en el botón "Comenzar".
+
+
+2.Consola:
+Ubicación del archivo de la clase Main: src/main/java/Controlador/Main.java
+Ejecutar el método main de la clase Main para abrir la interfaz por consola.
+Seguir las instrucciones en la consola para ingresar módulos y conexiones.
+La optimización se mostrará después de ingresar todas las aristas.
+
+/*********************************************************************************************/
+Nota Importante:
+Los nombres de los módulos deben ser únicos para el correcto funcionamiento de la aplicación.
+/*********************************************************************************************/
+Autor: Jaime Sebastian Chavarria Fuertes
